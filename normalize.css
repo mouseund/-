@@ -1,0 +1,60 @@
+h5 {
+    font-family: "Playfair Display";
+    font-weight: 400;
+    font-size: 30px;
+    color:#626262;
+    margin-top: 32px;
+    margin-bottom: 40px;
+    
+
+}
+p{
+    margin-bottom: 130px;
+    margin-top: 0px;
+}
+li{
+    display: inline;
+    padding: 0 50px ;
+    text-transform: uppercase;
+}
+ul{
+    text-align: center;
+    margin: 71px 0 92px 0;
+}
+li > a:hover{
+    color:#03A9F4;
+}
+.container{
+    width: 908px;
+    margin: 0 auto 66px auto ;    
+}
+article{
+    display: inline-block;
+    width: 50%;
+}
+
+.aticle_img{
+    margin-bottom: 62px;
+}
+.tag{
+    font-family: "Ubuntu", sans-serif;
+    text-transform: uppercase;
+    color:#B4AD9E;
+    font-weight: 300;
+}
+.text-center{
+    text-align: center;
+
+}
+button{
+    padding-top: 20px;
+    padding-right: 48px;
+    padding-bottom: 21px;
+    padding-left: 49px;
+    font-family: "Playfair Display", serif;
+    border:1px solid #626262;
+    background-color: transparent;
+    color: #626262;
+}
+
+
